@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="9cb3fed4-4d9b-4733-9915-d7f66c1e90ed" />
+  <Project Path="FilesystemPlugin/FilesystemPlugin.csproj" />
+</Solution>

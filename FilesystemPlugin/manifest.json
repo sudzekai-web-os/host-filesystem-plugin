@@ -1,0 +1,6 @@
+{
+  "name": "Filesystem",
+  "version": "0.1.1",
+  "summary": "Управление директориями и файлами",
+  "assemblies": ["FilesystemPlugin.dll"]
+}
